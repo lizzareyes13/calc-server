@@ -1,0 +1,30 @@
+
+(JS Universe)
+server frameworks:
+node/express
+
+task runners/bundlers:
+grunt,gulp,webpack,browserify
+
+package management:
+Node pkg mngr, bower
+
+
+
+(PYTHON)
+server frameworks:
+Django/Flask
+
+task runners / bundlers:
+
+package management:
+PIP
+
+
+(RUBY)
+server frameworks:
+Rails
+
+task runners / bundlers:
+
+package management:
